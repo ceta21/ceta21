@@ -49,7 +49,7 @@ Juego web de supervivencia por oleadas.
 </td>
 <td width="50%" valign="top">
 
-### ⛵ Galeón
+### ⛵ Galeon
 Web corporativa de GALEON, consultora de inteligencia artificial.
 
 `Next.js` `React` `TypeScript`
