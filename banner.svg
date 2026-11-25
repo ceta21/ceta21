@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Gabriel Vigo, desarrollador de software junior">
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, Consolas, Menlo, monospace; }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cur { animation: none; } }
+  </style>
+  <rect width="1200" height="320" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="36" cy="34" r="7" fill="#ff5f56"/><circle cx="60" cy="34" r="7" fill="#ffbd2e"/><circle cx="84" cy="34" r="7" fill="#27c93f"/>
+  <text class="mono" x="72" y="100" font-size="22" fill="#3fb950">$ whoami</text>
+  <text x="68" y="180" font-size="76" font-weight="800" fill="#f0f6fc">Gabriel Vigo</text>
+  <text x="72" y="229" font-size="30" fill="#58a6ff">Desarrollador de software junior</text>
+  <text class="mono" x="72" y="277" font-size="20" fill="#8b949e">DAM · Sevilla</text>
+  <rect class="cur" x="222" y="259" width="11" height="22" fill="#3fb950"/>
+  <g class="mono" font-size="21" fill="#8b949e" transform="translate(830 105)">
+    <text><tspan fill="#ff7b72">const</tspan> stack = [</text>
+    <text x="28" y="36" fill="#a5d6ff">"Java",</text>
+    <text x="28" y="72" fill="#a5d6ff">"PHP",</text>
+    <text x="28" y="108" fill="#a5d6ff">"JavaScript",</text>
+    <text x="28" y="144" fill="#a5d6ff">"React"</text>
+    <text y="180">];</text>
+  </g>
+</svg>
